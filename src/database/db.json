@@ -9,7 +9,7 @@
     },
     {
       "name": "Virat Kohli",
-      "username": "viratkohli",
+      "username": "virat_kohli",
       "email": "virat@gmail.con",
       "phone": "0987654321",
       "id": 2
@@ -20,13 +20,6 @@
       "email": "rohit@gmail.com",
       "phone": "1298012345",
       "id": 3
-    },
-    {
-      "name": "Raunit Verma",
-      "username": "ramgopal",
-      "email": "ramgopal@gmail.com",
-      "phone": "7623908734",
-      "id": 4
     }
   ]
 }

@@ -3,7 +3,7 @@
 
 const LearningReact=()=>{
     return (
-        <p>Hello from Add User</p>
+        <p>Hello and Learn React using this basci CRUD application</p>
     )
 }
 
